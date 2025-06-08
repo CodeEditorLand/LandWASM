@@ -48,10 +48,10 @@
 		"simulation": "node ./lib/node/test/arrayMain.js"
 	},
 	"dependencies": {
-		"uuid": "^9.0.1",
-		"vscode-uri": "^3.0.8"
+		"uuid": "^11.1.0",
+		"vscode-uri": "^3.1.0"
 	},
 	"devDependencies": {
-		"@types/uuid": "^9.0.8"
+		"@types/uuid": "^10.0.0"
 	}
 }

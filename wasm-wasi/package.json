@@ -36,13 +36,13 @@
 	"enabledApiProposals": [
 	],
 	"dependencies": {
-		"yargs": "^17.7.2",
-		"semver": "^7.6.2"
+		"yargs": "^18.0.0",
+		"semver": "^7.7.2"
 	},
 	"devDependencies": {
-		"@types/vscode": "1.88.0",
-		"@types/yargs": "^17.0.32",
-		"@types/semver": "^7.5.8"
+		"@types/vscode": "1.100.0",
+		"@types/yargs": "^17.0.33",
+		"@types/semver": "^7.7.0"
 	},
 	"scripts": {
 		"prepublishOnly": "echo \"⛔ Can only publish from a secure pipeline ⛔\" && node ../build/npm/fail",
