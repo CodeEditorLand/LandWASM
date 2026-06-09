@@ -1,3 +1,4 @@
 [submodule "dependencies/wasmtime"]
 	path = dependencies/wasmtime
-	url = https://github.com/bytecodealliance/wasmtime.git
+	url = ssh://git@github.com/DependencyCodeEditorLand/WASMTime.git
+	ignore = all
